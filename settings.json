@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Esahak.aternos.me",
+    "ip": "Esahak.aternos.me:44842",
     "port": 44842,
     "version": "",
     "try-creative": false
